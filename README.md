@@ -2,7 +2,7 @@
 
 Automated OSINT tool by Siebe Van Rompay
 
-This framework allows to search for company names and person names
+This framework allows to search for company names and domains and person names and emails
 
 ## Tools
 
