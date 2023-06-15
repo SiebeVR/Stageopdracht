@@ -13,7 +13,7 @@ from APIDNSD.dnsdumpster.DNSDumpsterAPI import DNSDumpsterAPI
 SEARCH_BY_NAME_API_URL = 'https://api.cbe2json.be/byDenomination'
 SEARCH_BY_NUMBER_API_URL = 'https://api.cbe2json.be/byCBE'
 CLIENT_ID = 'd70edd1fa82f98d8'
-SECRET_KEY = 'd663672e856c7ca8aefee6e0e108a2e5298f5c04bd118753708dd17cab62f714'
+SECRET_KEY = '*****'
 DEHASHED_API_URL = 'https://api.dehashed.com/search'
 DEHASHED_API_KEY = ''
 DEHASHED_OWN_EMAIL = 'feesttent123@gmail.com'
